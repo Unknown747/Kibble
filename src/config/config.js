@@ -1,0 +1,4 @@
+export class Config {
+  static TELEGRAM_APP_ID = 26936455; // YOUR APP ID
+  static TELEGRAM_APP_HASH = 1ba8bd16bdf8279b4049964415389067; // YOUR APP HASH
+}
